@@ -1,0 +1,17 @@
+p {
+    background-color: rgba(245, 126, 126, 0.9);
+}
+
+.size {
+    font-size: 20px;
+}
+
+#green {
+    background-color: rgba(130, 245, 126, 0.9);
+    font-weight: bold;
+}
+
+#blue {
+    color:rgba(29, 7, 230, 0.9);
+    font-size: 30px;
+}
